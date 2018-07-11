@@ -6,7 +6,7 @@ This is a great skill to learn for anybody interested in software operations, da
 
 For Girl Develop It.
 
-View the slides and labs [here](https://docs.google.com/presentation/d/1-ho7oyrTxiEzlTZdKDoTFyS7AP6-QCUewaoOzXU-tCY/edit#slide=id.p).
+View the slides and labs [here](https://goo.gl/4RiFX8).
 
 ## What we'll cover
 
